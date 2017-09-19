@@ -1,0 +1,9 @@
+Instruções para compilar os algoritmos:
+- make
+- ./tp1 -i (nome do arquivo de entrada) -o (nome do arquivo de saida)
+
+Exemplo: 
+	 make
+	 ./tp1 -i entrada.txt -o saida.txt
+
+
